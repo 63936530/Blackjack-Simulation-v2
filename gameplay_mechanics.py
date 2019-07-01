@@ -1,3 +1,6 @@
+#Building the basic version of the game
+# 1. Draw a card
+# 2. Continue drawing cards until the hand limit was met.
 from blackjack_hand import BlackJack
 import numpy as np
 
