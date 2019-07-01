@@ -1,3 +1,4 @@
+#Starting with the cards and values in Blackjack
 class BlackJack:
     def card_hands(self):
         return {
