@@ -1,4 +1,4 @@
-# Build a game for the user vs. the dealer.
+# Build a game for the user vs. the dealer. 
 from gameplay_mechanics import PlayHand
 
 class Dealing(PlayHand):
